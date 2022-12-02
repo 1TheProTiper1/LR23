@@ -4,4 +4,4 @@
 Название работы: Разработка игры hophophop
 
 
-![alt text](https://gspics.org/image/0Xlyys)
+![image](https://gspics.org/image/0Xlyys)
